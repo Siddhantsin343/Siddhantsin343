@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Siddhant Singh</h1>
 <h3 align="center">Passionate Frontend Developer turning ideas into pixels 💻</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhantsin343&label=Profile%20views&color=0e75b6&style=flat" alt="siddhantsin343" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddhantsin343" alt="siddhantsin343" /></a> </p>
 
@@ -10,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sid-devfolio.netlify.app/](https://sid-devfolio.netlify.app/)
 
-- 💬 Ask me about **react, javascript**
+- 💬 Ask me about **react, javascript, three.js , r3f**
 
 - 📫 How to reach me **siddhantsin343@gmail.com**
 
