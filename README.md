@@ -3,7 +3,7 @@
 <h3 align="center">A Creative frontend developer from India</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=siddhantsin343&label=Profile%20views&color=0e75b6&style=flat" alt="siddhantsin343" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/siddhantsin343?t=rweww9rpyp1lclwqeavzoa&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/siddhantsin343?t=rweww9rpyp1lclwqeavzoa&s=09?logo=twitter&style=for-the-badge" alt="https://x.com/siddhantsin343?t=rweww9rpyp1lclwqeavzoa&s=09" /></a> </p>
+
 
 - 🔭 I’m currently working on **JavaScript Game**
 
